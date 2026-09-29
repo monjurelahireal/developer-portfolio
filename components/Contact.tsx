@@ -18,14 +18,14 @@ export default function Contact() {
 
           <div className="mt-10 flex flex-wrap gap-4">
             <a
-              href="mailto:your-email@example.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=elahireal3@gmail.com"
               className="rounded-full bg-white px-6 py-3 font-medium text-black transition hover:bg-zinc-200"
             >
               Email Me
             </a>
 
             <a
-              href="https://github.com/"
+              href="https://github.com/monjurelahireal"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-full border border-zinc-700 px-6 py-3 font-medium text-white transition hover:bg-zinc-900"

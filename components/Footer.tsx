@@ -8,14 +8,16 @@ export default function Footer() {
 
         <div className="flex gap-6">
           <a
-            href="#"
+            href="https://github.com/monjurelahireal"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-sm text-zinc-500 transition hover:text-white"
           >
             GitHub
           </a>
 
           <a
-            href="#contact"
+            href="mailto:elahireal3@gmail.com"
             className="text-sm text-zinc-500 transition hover:text-white"
           >
             Contact
